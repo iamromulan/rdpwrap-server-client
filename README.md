@@ -1,6 +1,6 @@
 # RDP Wrapper & Autoupdate
 
-### This is just tthe forked readme I combined the autoupdater with the base.
+### This is just the forked readme I combined the autoupdater with the base.
 
 ### Automatic RDP Wrapper installer and updater // asmtron (2024-04-29)
 
